@@ -1,0 +1,514 @@
+[
+    {
+        "outputFile": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 65,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 65,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 64,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 64,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 55,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 55,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 63,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 63,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 56,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 56,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 71,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 71,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 71,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 71,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 113,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 113,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 121,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endColumn": 121,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1701
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1706,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 2184
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1706,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2189,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 2305
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2189,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2310,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2749
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2310,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 2749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2754,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2831
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2754,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 2831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2836,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 3326
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2836,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 3326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3331,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 3506
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3331,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 3506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3511,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 3834
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3511,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 3834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3839,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4158
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3839,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 4158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4163,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 4295
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4163,
+                        "endLine": 63,
+                        "endColumn": 12,
+                        "endOffset": 4295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4300,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4526
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4300,
+                        "endLine": 66,
+                        "endColumn": 12,
+                        "endOffset": 4526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4531,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 4751
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4531,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 4751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4756,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 4852
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4756,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 4852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4857,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 5300
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4857,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 5300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5305,
+                    "endLine": 85,
+                    "endColumn": 12,
+                    "endOffset": 5585
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5305,
+                        "endLine": 85,
+                        "endColumn": 12,
+                        "endOffset": 5585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5590,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 5855
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\numberpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5590,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 5855
+                    }
+                }
+            }
+        ]
+    }
+]

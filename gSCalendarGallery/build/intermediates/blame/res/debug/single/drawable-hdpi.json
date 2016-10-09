@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh.png",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gs_calendar_gallery.png",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\drawable-hdpi\\gs_calendar_gallery.png"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\navigation_previous_item_pressed.png",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\drawable-hdpi\\navigation_previous_item_pressed.png"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\navigation_next_item_pressed.png",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\drawable-hdpi\\navigation_next_item_pressed.png"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\navigation_previous_item.png",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\drawable-hdpi\\navigation_previous_item.png"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\navigation_back.png",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\drawable-hdpi\\navigation_back.png"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\navigation_next_item.png",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\drawable-hdpi\\navigation_next_item.png"
+    }
+]

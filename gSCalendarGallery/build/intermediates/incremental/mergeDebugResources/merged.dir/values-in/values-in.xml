@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="day_of_week_short">
+        <item>Min</item>
+        <item>Sen</item>
+        <item>Sel</item>
+        <item>Rab</item>
+        <item>Kam</item>
+        <item>Jum</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="months">
+        <item>Januari</item>
+        <item>February</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+    <string name="action">Apa yang ingin anda lakukan?</string>
+    <string name="app_name">Calendar Gallery</string>
+    <string name="btn_current">Saat ini</string>
+    <string name="cancel">Batal</string>
+    <string name="day">Tanggal</string>
+    <string name="delete">Hapus gambar?</string>
+    <string name="delete_image_on_day">Hapus gambar %1$s</string>
+    <string name="delete_image_on_day_warn">Hapus semua gambar di tanggal %1$s?</string>
+    <string name="delete_multi">Hapus gambar terpilih (%1$d)?</string>
+    <string name="delete_progress">Menghapus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="image_count">%1$d / %2$d</string>
+    <string name="loading_images">Loading images...</string>
+    <string name="menu_back">Kembali</string>
+    <string name="menu_check_all">Pilih Semua</string>
+    <string name="menu_check_clear">Hapus Pilihan</string>
+    <string name="menu_delete">Hapus</string>
+    <string name="menu_delete_multiple">Hapus Gambar</string>
+    <string name="menu_goto">Pergi Ke...</string>
+    <string name="menu_refresh">Perbaharui</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_slideshow">Jalankan</string>
+    <string name="menu_slideshow_stop">Berhenti</string>
+    <string name="month">Bulan</string>
+    <string name="multiple_image_count">(%1$d) / %2$d</string>
+    <string name="multiple_selection_active">mode pilihan banyak</string>
+    <string name="ok">OK</string>
+    <string name="open_image_on_day">Tampilkan gambar %1$s</string>
+    <string name="picture_not_found">gambar tidak tersedia...</string>
+    <string name="share">Share</string>
+    <string name="single_selection_active">mode pilihan tunggal</string>
+    <string name="slideshow">Jalan Otomatis</string>
+    <string name="title_activity_detail">GS Calendar Gallery</string>
+    <string name="year">Tahun</string>
+</resources>

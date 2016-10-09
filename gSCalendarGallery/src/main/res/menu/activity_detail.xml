@@ -1,0 +1,60 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_back"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/navigation_back"
+        android:visible="false"
+        android:title="@string/menu_back"/>
+    
+    <item
+        android:id="@+id/menu_slideshow"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_slideshow"
+        android:title="@string/menu_slideshow"/>
+    
+    <item
+        android:id="@+id/menu_slideshow_stop"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/ic_media_pause"
+        android:title="@string/menu_slideshow_stop"/>
+    
+    <item
+        android:id="@+id/menu_share"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/menu_share"/>
+    
+    <item
+        android:id="@+id/menu_check_all"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/checkbox_on_background"
+        android:title="@string/menu_check_all"/>
+    
+    <item
+        android:id="@+id/menu_check_clear"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/checkbox_off_background"
+        android:title="@string/menu_check_clear"/>
+    
+    <item
+        android:id="@+id/menu_delete"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/menu_delete"/>
+    
+    <item
+        android:id="@+id/menu_delete_multiple"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/menu_delete_multiple"/>
+
+</menu>

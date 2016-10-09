@@ -1,0 +1,1 @@
+GSCalendarGallery is an image gallery app that group images in local device according to its date taken and shows in a calendar view.

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/refresh"
+        android:title="@string/menu_refresh"/>
+    
+    <item
+        android:id="@+id/menu_goto"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_day"
+        android:title="@string/menu_goto"/>
+
+</menu>

@@ -1,0 +1,160 @@
+<!--?xml version="1.0" encoding="utf-8"?-->  
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".CalendarDayActivity" xmlns:app="http://schemas.android.com/apk/res/com.gs.gscalendar">
+
+    <LinearLayout
+        android:id="@+id/myCalendarHeader"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/calendar_header"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp" >
+
+        <Button
+            android:id="@+id/myCalendarBtnPrevious"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".1"
+            android:background="@drawable/navigation_button_previous_selector" />
+
+        <TextView
+            android:id="@+id/myCalendarTitle"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight=".8"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/myCalendarBtnNext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".1"
+            android:background="@drawable/navigation_button_next_selector" />
+    </LinearLayout>
+
+    <RelativeLayout 
+	    android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/myCalendar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/imageCount"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center_vertical|center_horizontal" >
+        
+	    <ImageView
+	        android:id="@+id/thumbImage"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerInParent="true"
+	        android:scaleType="fitXY"
+	        android:adjustViewBounds="true" />
+	    
+	    <Button
+            android:id="@+id/myGalleryBtnPrevious"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/gallery_button_previous_selector" />
+	    
+	    <Button
+            android:id="@+id/myGalleryBtnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/gallery_button_next_selector" />
+	    
+    </RelativeLayout>
+	
+    <com.jess.ui.TwoWayGridView
+		    xmlns:app="http://schemas.android.com/apk/res-auto"
+		    android:id="@+id/myCalendar"
+        	android:layout_alignParentBottom="true"
+		    android:layout_width="match_parent" 
+		    android:layout_height="70dp"
+        	android:layout_gravity="center_vertical|center_horizontal"
+		    app:columnWidth="70dp"
+		    app:rowHeight="70dp"
+		    android:fadingEdge="horizontal"
+		    android:fadingEdgeLength="20dp"
+		    android:requiresFadingEdge="horizontal"
+		    app:numColumns="auto_fit"
+            android:numColumns="auto_fit"
+		    app:numRows="1"
+		    app:scrollDirectionPortrait="horizontal"
+            android:scrollbars="horizontal"
+            android:stretchMode="spacingWidthUniform"
+        	android:background="@color/dark_blue"
+		    app:gravity="center"/>
+
+    <TextView
+        android:id="@+id/imageCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/myCalendarHeader"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:text="0 of 0"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/pictureNotFound"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:text="@string/picture_not_found"
+        android:textColor="@color/gray"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+    
+    <TextView
+        android:id="@+id/slideshow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignBottom="@+id/scrollView"
+        android:layout_centerHorizontal="true"
+        android:text="@string/slideshow"
+        android:textColor="@color/gray"
+        android:textSize="15sp"
+        android:alpha=".7"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+    
+    <TextView
+        android:id="@+id/multiple_selection_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignBottom="@+id/scrollView"
+        android:layout_centerHorizontal="true"
+        android:text="@string/multiple_image_count"
+        android:textColor="@color/dark_yellow"
+        android:background="@color/black"
+        android:textSize="12sp"
+        android:padding="3dp"
+        android:alpha=".7"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+</RelativeLayout>

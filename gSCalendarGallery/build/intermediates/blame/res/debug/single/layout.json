@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\exploded-aar\\GSCalendarGallery\\numberpickerlibrary\\unspecified\\res\\layout\\number_picker.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendar.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\custom_numberpicker.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\layout\\custom_numberpicker.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\custom_calendar_day_cell_content.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\layout\\custom_calendar_day_cell_content.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\custom_calendar_cell_content.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\layout\\custom_calendar_cell_content.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\custom_single_list_content.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\layout\\custom_single_list_content.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\custom_calendar_cell_header.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\layout\\custom_calendar_cell_header.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gallery_day.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\layout\\activity_gallery_day.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\custom_single_list.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\layout\\custom_single_list.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendar_day.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\GSCalendarGallery\\gSCalendarGallery\\src\\main\\res\\layout\\activity_calendar_day.xml"
+    }
+]

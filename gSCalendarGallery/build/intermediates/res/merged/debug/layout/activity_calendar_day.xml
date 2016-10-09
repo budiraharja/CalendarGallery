@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CalendarDayActivity" >
+
+    <LinearLayout
+        android:id="@+id/myCalendarHeader"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/gridview_header_selector"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp" >
+
+        <Button
+            android:id="@+id/myCalendarBtnPrevious"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".1"
+            android:background="@drawable/navigation_button_previous_selector" />
+
+        <TextView
+            android:id="@+id/myCalendarTitle"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight=".8"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/myCalendarBtnNext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".1"
+            android:background="@drawable/navigation_button_next_selector" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/pictureNotFound"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/picture_not_found"
+        android:textColor="@color/gray"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_weight=".9"
+        android:background="@android:color/transparent"
+        android:fillViewport="true"
+        android:scrollbars="none" >
+
+        <GridView
+            android:id="@+id/myCalendar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:columnWidth="100dp"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="auto_fit"
+            android:scrollbars="horizontal"
+            android:stretchMode="columnWidth" >
+        </GridView>
+    </HorizontalScrollView>
+
+</LinearLayout>
